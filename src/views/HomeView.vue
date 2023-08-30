@@ -3,7 +3,7 @@
   <Nav></Nav>
 
   <div class="xl:container px-2 md:px-4 mx-auto transition-all">
-    <div class="max-w-12xl flex gap-4 mx-auto mt-7">
+    <div class="max-w-12xl flex gap-7 mx-auto mt-7">
       <!-- left side bar -->
       <left-side-bar></left-side-bar>
       <!--//lsb-->
